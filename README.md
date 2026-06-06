@@ -28,7 +28,7 @@ I enjoy transforming raw, complex data into clear and actionable insights that h
 
 ## 💼 Experience
 
-**BI & Reporting Analyst Intern — DeltaX** *(2024 – Present)*
+**BI & Reporting Analyst Intern — DeltaX** *(Apr 26 – June 26)*
 - Built and published a live Power BI dashboard for real-time campaign performance monitoring
 - Integrated daily data feeds from Prisma, Campaign Manager 360, and AWS S3 sources
 - Generated weekly and monthly MIS reports for clients and internal stakeholders
@@ -50,12 +50,6 @@ An end-to-end Supply Chain Analytics Dashboard covering Supplier, Inventory, Shi
 > Machine Learning | JavaScript
 
 A browser extension that detects phishing websites in real-time using ML classification algorithms.
-
----
-
-## 📈 GitHub Stats
-
-![Nageshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nageshwarkauthale27&show_icons=true&theme=default&hide_border=true)
 
 ---
 
