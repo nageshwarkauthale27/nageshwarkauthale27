@@ -67,4 +67,4 @@ A browser extension that detects phishing websites in real-time using ML classif
 
 ---
 
-*"Turning data into decisions, one dashboard at a time."* 📊
+*Turning data into decisions, one dashboard at a time.* 📊
